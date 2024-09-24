@@ -109,4 +109,4 @@ chown -R nginx:nginx /var/www/proton/public
 
 echo "<?php phpinfo(); ?>" > /var/www/proton/public/index.php
 
-echo "LEMP stack is succesvol geïnstalleerd met OroPlatform vereisten op CentOS 9!"
+echo "LEMP stack is succesvol geïnstalleerd met Proton Erp vereisten op CentOS 9!"
