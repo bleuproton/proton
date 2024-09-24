@@ -1,5 +1,5 @@
 {
-    "name": "proton-erp",
+    "name": "bleuproton/proton-erp",
     "description": "Proton Community Edition",
     "homepage": "https://github.com/bleuproton/proton.git",
     "license": "OSL-3.0",
