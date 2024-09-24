@@ -23,7 +23,7 @@
             "type": "composer",
             "url": "https://asset-packagist.orocrm.com"
         },
-        "marello" :{
+        "aproton" :{
             "type": "vcs",
             "url": "https://github.com/bleuproton/aproton.git",
             "branch": "master"
