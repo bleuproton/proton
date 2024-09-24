@@ -1,6 +1,6 @@
 ---
 
-Proton ERP Unified Commerce Management**  
+Proton ERP Unified Commerce Management
 -----------
 
 Proton ERP provides powerful capabilities to meet and exceed the evolving demands of modern commerce. It enables businesses to efficiently manage multiple sales channels, offering real-time visibility into B2C and B2B orders, inventory, fulfillment, customer data, and more. Proton ERP's unified approach allows seamless shopping experiences, letting customers buy anywhere, fulfill anywhere, and return anywhere—all within one integrated system that serves as a single source of truth for your business.
