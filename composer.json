@@ -1,12 +1,12 @@
 {
-    "name": "marellocommerce/marello-application",
-    "description": "Marello Unified Commerce Management Community Edition",
-    "homepage": "https://github.com/marellocommerce/marello-application.git",
+    "name": "proton-erp",
+    "description": "Proton Community Edition",
+    "homepage": "https://github.com/bleuproton/proton.git",
     "license": "OSL-3.0",
     "authors": [
         {
-            "name": "Marello B.V.",
-            "homepage": "https://www.marello.com"
+            "name": "Proton",
+            "homepage": "https://www.proton.com"
         }
     ],
     "autoload": {
@@ -25,7 +25,7 @@
         },
         "marello" :{
             "type": "vcs",
-            "url": "https://github.com/marellocommerce/marello.git",
+            "url": "https://github.com/bleuproton/aproton.git",
             "branch": "master"
         }
     },
